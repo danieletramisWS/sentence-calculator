@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sentence Calculator</string>
+    <string name="base_sentence">Base sentence:</string>
+    <string name="calculate">Calculate</string>
+    <string name="cancel">Cancel</string>
+    <string name="increase">Increase:</string>
+    <string-array name="cutoff_values" translatable="false">
+        <item />
+        <item>1/4</item>
+        <item>1/2</item>
+        <item>2/3</item>
+    </string-array>
+    <string name="error">Error:</string>
+    <string name="invalid_years">Insert years not less than zero</string>
+    <string name="invalid_months">Insert months between 0 and 12</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="result">Result:</string>
+</resources>

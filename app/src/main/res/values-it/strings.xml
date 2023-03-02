@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolatore Prescrizione</string>
+    <string name="base_sentence">Condanna base:</string>
+    <string name="calculate">Calcola</string>
+    <string name="cancel">Svuota</string>
+    <string name="increase">Maggiorazione:</string>
+    <string name="error">Errore:</string>
+    <string name="invalid_years">Inserire un numero di anni non negativo</string>
+    <string name="invalid_months">Inserire da 0 a 12 mesi</string>
+    <string name="years">Anni</string>
+    <string name="months">Mesi</string>
+    <string name="result">Risultato:</string>
+</resources>
