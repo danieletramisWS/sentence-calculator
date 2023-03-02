@@ -1,3 +1,3 @@
-# sentence-calculator
+# Sentence Calculator
 
 Tool to help judges calculate the presciption time of the criminal trial.
