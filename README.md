@@ -1,3 +1,3 @@
 # Sentence Calculator
 
-Tool to help judges calculate the presciption time of the criminal trial.
+Tool to help judges calculate the prescription time of the criminal trial.
